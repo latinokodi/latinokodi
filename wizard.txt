@@ -1,8 +1,8 @@
 id="plugin.program.latinokodi"
 version="3.0.0"
-zip=""
+zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinokodi-3.0.1.zip"
 
-name="Latino Kodi 100% v3.0"
+name="Latino Kodi 100"
 version="3.0.0"
 url="https://archive.org/download/build3.1_201807/build3.1.zip"
 gui="http://"
