@@ -4,7 +4,7 @@ zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinoko
 
 name="Latino Kodi 100"
 version="3.1"
-url="https://archive.org/download/build3.5/build3.5.zip"
+url="https://archive.org/download/build3.6/build3.6.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
