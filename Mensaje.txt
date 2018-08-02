@@ -7,6 +7,7 @@ SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
 Lista de Cambios:
 
 [COLOR yellow]v1.2[/COLOR]
+-Arregladas fuentes ilegibles
 -Removidos Addons muertos
 -Arreglado error XBMC GUI dependencias
 -Agregados Addons en Español Latino
