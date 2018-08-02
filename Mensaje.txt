@@ -1,4 +1,4 @@
-2
+1
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
@@ -8,6 +8,6 @@ Lista de Cambios:
 
 [COLOR yellow]v1.2[/COLOR]
 -Removidos Addons muertos
--Arreglado error XBMC GUI dpendencias
+-Arreglado error XBMC GUI dependencias
 -Agregados Addons en Español Latino
 -Agregado versión y fecha de actualización a pantalla principal
