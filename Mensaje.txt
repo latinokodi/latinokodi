@@ -8,4 +8,4 @@ v1.2
 -Removidos Addons muertos
 -Arreglado error XBMC GUI dpendencias
 -Agregados Addons en Español Latino
--
+-Agregado versión y fecha de actualización a pantalla principal
