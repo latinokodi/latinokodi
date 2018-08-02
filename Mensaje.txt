@@ -2,11 +2,11 @@
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
-[I]https://www.paypal.me/ferchorama/[/I]
+[COLOR blue]https://www.paypal.me/ferchorama/[/COLOR]
 
 Lista de Cambios:
 
-[COLOR lightblue]v1.2[/COLOR]
+[COLOR yellow]v1.2[/COLOR]
 -Removidos Addons muertos
 -Arreglado error XBMC GUI dpendencias
 -Agregados Addons en Español Latino
