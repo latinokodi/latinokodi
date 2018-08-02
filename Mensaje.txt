@@ -1,0 +1,11 @@
+1
+|||
+GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
+
+Changelog:
+
+v1.2
+-Removidos Addons muertos
+-Arreglado error XBMC GUI dpendencias
+-Agregados Addons en Español Latino
+-
