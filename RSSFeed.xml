@@ -11,8 +11,14 @@
   </item>
   
   <item>
-   <title>Tu contribución es vital para el proyecto <font color="blue">paypal.me/ferchorama</font></title>
+   <title>Tu contribución es vital para el proyecto paypal.me/ferchorama</title>
   </item>
+  
+  <font color="blue">
+   <item>
+   <title>Tu contribución es vital para el proyecto paypal.me/ferchorama</title>
+   </item>
+  </font>
   
  </channel>
 </rss>
