@@ -1,10 +1,10 @@
 id="plugin.program.lku"
-version="1.2"
+version="1.3"
 zip="https://raw.githubusercontent.com/ferchorama/latinokodi/master/plugin.program.latinokodiultimate-1.0.zip"
 
 name="Latino Kodi Ultimate"
-version="1.2"
-url="https://archive.org/download/ultimate_201808/ultimate.zip"
+version="1.3"
+url="https://archive.org/download/ultimate13/ultimate13.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
