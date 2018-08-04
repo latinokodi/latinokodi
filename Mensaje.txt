@@ -1,4 +1,4 @@
-1
+2
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
@@ -8,6 +8,11 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 Lista de Cambios:
+
+[COLOR yellow]v1.3[/COLOR]
+-Removidos Addons muertos
+-Agregados Addons en Español Latino
+-Agregado Feed RSS
 
 [COLOR yellow]v1.2[/COLOR]
 -Arregladas fuentes ilegibles
