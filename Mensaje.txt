@@ -1,4 +1,4 @@
-2
+3
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
@@ -8,6 +8,9 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 Lista de Cambios:
+
+[COLOR yellow]v1.4[/COLOR]
+-Deshabilitado VODMX (Hasta ser arreglado por el desarrollador)
 
 [COLOR yellow]v1.3[/COLOR]
 -Removidos Addons muertos
