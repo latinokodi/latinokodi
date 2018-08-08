@@ -1,4 +1,4 @@
-4
+5
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
@@ -9,7 +9,9 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 
 Lista de Cambios:
 
-[COLOR yellow]v1.4[/COLOR]
+[COLOR yellow]v1.5[/COLOR]
+-Optimizaciones de rendimiento
+-Removidos archivos innecesarios
 -Removido Addon Black Ghost
 -Agregados Addons:
  Corban
