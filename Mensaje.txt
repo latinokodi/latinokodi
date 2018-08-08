@@ -1,4 +1,4 @@
-3
+4
 |||
 GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
 SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
@@ -8,6 +8,23 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 Lista de Cambios:
+
+[COLOR yellow]v1.4[/COLOR]
+-Removido Addon Black Ghost
+-Agregados Addons:
+ Corban
+ Vodmx
+
+ Benelly
+ Smith & Wesson
+ Ccloud TV
+ Eyasses
+ Cryptic
+ Falcon Project
+ Eyasses
+ Sub Zero
+ Midian
+ Wolf Pack
 
 [COLOR yellow]v1.4[/COLOR]
 -Deshabilitado VODMX (Hasta ser arreglado por el desarrollador)
