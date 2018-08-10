@@ -1,16 +1,53 @@
-7
+8
 |||
-GRACIAS POR ESCOGER [COLOR red][B]LATINO KODI ULTIMATE[/B][/COLOR]
-SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO:
-[COLOR blue][B]https://www.paypal.me/ferchorama/[/B][/COLOR]
+[COLOR yellow]DE MOMENTO QUEDA SUSPENDIDO EL PROYECTO HASTA CONTAR CON LOS FONDOS SUFICIENTES PARA CUBRIR LOS GASTOS DE LA MENSUALIDAD DEL SERVIDOR Y EL HOSTING[/COLOR]
+
+[COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
+
+[COLOR red]SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO: [B]https://www.paypal.me/ferchorama/[/B][/COLOR]
 
 REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 Lista de Cambios:
 
-[COLOR yellow]DE MOMENTO QUEDA SUSPENDIDO EL PROYECTO HASTA CONTAR CON LOS FONDOS SUFICIENTES PARA CUBRIR LOS GASTOS DE LA MENSUALIDAD DEL SERVIDOR Y EL HOSTING[/COLOR]
+[COLOR yellow]v1.6[/COLOR]
+-Optimizaciones de rendimiento
+-Removidos archivos innecesarios
+-Arreglado Addon Loki
+-Agregados Addons:
+ Scythe
+ Enter Sandman
+ Tv One
+ 
+[COLOR yellow]v1.5[/COLOR]
+-Optimizaciones de rendimiento
+-Removidos archivos innecesarios
+-Removido Addon Black Ghost
+-Agregados Addons:
+ Corban
+ Vodmx
+ Benelly
+ Smith & Wesson
+ Ccloud TV
+ Eyasses
+ Cryptic
+ Falcon Project
+ Sub Zero
+ Midian
+ Wolf Pack
 
-[COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
+[COLOR yellow]v1.4[/COLOR]
+-Deshabilitado VODMX (Hasta ser arreglado por el desarrollador)
 
-[COLOR red]SI TE GUSTA MI TRABAJO CONTRIBUYE AL PROYECTO: [B]https://www.paypal.me/ferchorama/[/B][/COLOR]
+[COLOR yellow]v1.3[/COLOR]
+-Removidos Addons muertos
+-Agregados Addons en Español Latino
+-Agregado Feed RSS
+
+[COLOR yellow]v1.2[/COLOR]
+-Arregladas fuentes ilegibles
+-Removidos Addons muertos
+-Arreglado error XBMC GUI dependencias
+-Agregados Addons en Español Latino
+-Agregado versión y fecha de actualización a pantalla principal
