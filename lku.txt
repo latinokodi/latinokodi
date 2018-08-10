@@ -15,8 +15,8 @@ adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
 
-name="Update Latino Kodi Ultimate"
-version="1.6"
+name="[COLOR blue]—- USAR STANDARD INSTALL PARA LOS PARCHES —–[/COLOR]"
+version="1.5"
 url="https://archive.org/download/UpdateTest/UpdateTest.zip"
 gui="http://"
 kodi="17.6"
