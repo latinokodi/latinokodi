@@ -1,4 +1,4 @@
-9
+10
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
@@ -8,6 +8,11 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 Lista de Cambios:
+
+[COLOR yellow]v1.7[/COLOR]
+-Removidos Addons por petición de los desarrolladores:
+ Alfa
+ TV Gratis
 
 [COLOR yellow]v1.6[/COLOR]
 -Optimizaciones de rendimiento
