@@ -1,9 +1,9 @@
 id="plugin.program.lku"
-version="1.8"
+version="1.7"
 zip="https://raw.githubusercontent.com/ferchorama/latinokodi/master/plugin.program.latinokodiultimate-1.0.zip"
 
 name="Latino Kodi Ultimate"
-version="1.8"
+version="1.7"
 url="https://archive.org/download/ultimate17_201808/ultimate17.zip"
 gui="http://"
 kodi="17.6"
