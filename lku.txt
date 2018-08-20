@@ -1,6 +1,6 @@
 id="plugin.program.latinokodiultimate"
 version="1.8"
-zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinokodiultimate-1.0.zip"
+zip="https://raw.githubusercontent.com/ferchorama/latinokodi/master/plugin.program.latinokodiultimate-1.0.zip"
 
 name="Latino Kodi Ultimate"
 version="1.8"
