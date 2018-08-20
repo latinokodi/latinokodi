@@ -1,6 +1,6 @@
 id="plugin.program.lku"
 version="1.8"
-zip="http://latinokodi.xyz/clinc/plugin.program.latinokodiultimate-1.0.zip"
+zip="http://latinokodi.xyz/latinokodi/plugin.program.latinokodiultimate-1.0.zip"
 
 name="Latino Kodi Ultimate"
 version="1.8"
