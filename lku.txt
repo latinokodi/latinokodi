@@ -1,4 +1,4 @@
-id="plugin.program.lku"
+id="plugin.program.latinokodiultimate"
 version="1.8"
 zip="https://raw.githubusercontent.com/ferchorama/latinokodi/master/plugin.program.latinokodiultimate-1.0.zip"
 
