@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/ferchorama/latinokodi/master/plugin.progr
 
 name="Latino Kodi Ultimate"
 version="1.8"
-url="http://latinokodi.xyz/buildf/ultimate18.zip"
+url="https://archive.org/download/ultimate18/ultimate18.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
