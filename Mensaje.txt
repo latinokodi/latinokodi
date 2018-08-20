@@ -1,4 +1,4 @@
-10
+11
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
@@ -7,7 +7,26 @@
 REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
+[COLOR red][B]IMPORTANTE: SI ESTÁS ACTUALIZANDO UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+
 Lista de Cambios:
+
+[COLOR yellow]v1.8[/COLOR]
+-Agregada sección Kids
+-Agregada sección 4K UHD
+-Addons Agregados
+ KodiTV
+ Patron AIO
+ Mundo Infantil
+ Pequelandia
+ 
+-Addons Removidos
+ Corban
+ HD Latino Free
+ Falcon Project
+ Covenant
+ Flixnet
+ Genesys Reborn
 
 [COLOR yellow]v1.7[/COLOR]
 -Removidos Addons por petición de los desarrolladores:
