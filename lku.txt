@@ -14,7 +14,7 @@ preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
-name="Latino Kodi Ultimate (Server 2)"
+name="Latino Kodi Ultimate"
 version="1.8"
 url="http://latinokodi.xyz/buildf/ultimate18.zip"
 gui="http://"
