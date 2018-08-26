@@ -26,7 +26,7 @@ preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
-name="Solo Update"
+name="Update"
 version="2.1"
 url="http://latinokodi.com/latinokodi/LKUpdate21.zip"
 gui="http://"
