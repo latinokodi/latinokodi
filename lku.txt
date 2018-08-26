@@ -16,7 +16,7 @@ description="Wizard para Latino Kodi Ultimate"
 
 name="Latino Kodi Ultimate Server 2"
 version="1.8"
-url="https://archive.org/download/ultimate18_201808/ultimate18.zip"
+url="http://latinokodi.com/latinokodi/ultimate18.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
@@ -28,7 +28,7 @@ description="Wizard para Latino Kodi Ultimate"
 
 name="Latino Kodi Ultimate Server 3"
 version="1.8"
-url="http://latinokodi.com/latinokodi/ultimate18.zip"
+url="https://archive.org/download/ultimate18_201808/ultimate18.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
@@ -37,3 +37,5 @@ fanart="https://archive.org/download/screen_201808/screen.jpg"
 preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Ultimate"
+
+
