@@ -1,11 +1,18 @@
-12
+13
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
 REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
-[COLOR red][B]IMPORTANTE: SI ESTÁS ACTUALIZANDO UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+[COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+
+[COLOR yellow]v2.2[/COLOR]
+-Arreglado error Blamo Update
+-Se vuelve a añadir configuración de Buffer (Activar en Mis Addons)
+-Arreglado error YouTube
+-Removida versión 1.8 del build
+-Mejorado soporte para lista IPTV Premium
 
 Lista de Cambios:
 [COLOR yellow]v2.0[/COLOR]
