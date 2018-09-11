@@ -1,6 +1,6 @@
 id="plugin.program.latinokodiultimate"
 version="2.0"
-zip="http://latinokodi.xyz/latinokodi/plugin.program.latinokodiultimate-2.0.zip"
+zip="http://latinokodi.xyz/latinokodi/plugin.program.latinokodiultimate-1.0.zip"
 
 name="Latino Kodi Ultimate"
 version="2.3"
