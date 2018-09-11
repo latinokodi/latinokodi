@@ -28,7 +28,7 @@ description="Wizard para Latino Kodi Ultimate"
 
 name="Latino Kodi Ultimate Server 3"
 version="2.3"
-url="https://archive.org/download/ultimate23/ultimate23.zip"
+url="https://archive.org/download/ultimate23_201809/ultimate23.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
