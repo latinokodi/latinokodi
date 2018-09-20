@@ -1,4 +1,4 @@
-14
+15
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
@@ -6,6 +6,12 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 [COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+
+[COLOR yellow]v2.5[/COLOR]
+-Reconfigurada interfaz para evitar errores de addons rotos
+
+[COLOR yellow]v2.4[/COLOR]
+-Removidos addons rotos
 
 [COLOR yellow]v2.3[/COLOR]
 -Corregidos errores internos
