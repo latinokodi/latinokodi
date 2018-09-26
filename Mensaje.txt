@@ -7,6 +7,14 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 
 [COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
 
+[COLOR yellow]v2.6 Krypton[/COLOR]
+-Reconfigurados Widgets para evitar errores de registro
+-Removidos addons inexistentes
+
+[COLOR yellow]v1.1 Leia[/COLOR]
+-Reconfigurados Widgets para evitar errores de registro
+-Removidos addons inexistentes
+
 [COLOR yellow]v2.5[/COLOR]
 -Reconfigurada interfaz para evitar errores de addons rotos
 
