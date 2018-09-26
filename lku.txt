@@ -17,7 +17,7 @@ adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
 name="Latino Kodi Ultimate Server 2"
-version="2.5"
+version="2.6"
 url="http://latinokodi.com/latinokodi/ultimate26.zip"
 gui="http://"
 kodi="17.6"
