@@ -6,7 +6,7 @@ Build para Kodi 17.6 Krypton
 
 name="Latino Kodi Ultimate"
 version="2.6"
-url="http://latinokodi.com/latinokodi/ultimate26.zip"
+url="http://latinokodi.xyz/buildf/ultimate26.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
