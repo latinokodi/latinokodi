@@ -16,6 +16,18 @@ preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
+name="Latino Kodi Ultimate Server 2"
+version="2.6"
+url="http://latinokodi.xyz/buildf/ultimate26.zip"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://archive.org/download/fanart_20180728/logo.png"
+fanart="https://archive.org/download/screen_201808/screen.jpg"
+preview="http://"
+adult="No"
+description="Wizard para Latino Kodi Ultimate"
+
 Build para Kodi 18.0 Leia
 
 name="Latino Kodi Ultimate Leia"
