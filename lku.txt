@@ -5,8 +5,8 @@ zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinoko
 Build para Kodi 17.6 Krypton
 
 name="Latino Kodi Ultimate"
-version="2.6"
-url="https://archive.org/download/ultimate26/ultimate26.zip"
+version="2.7"
+url="https://archive.org/download/ultimate27/ultimate27.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
@@ -17,8 +17,8 @@ adult="No"
 description="Wizard para Latino Kodi Ultimate"
 
 name="Latino Kodi Ultimate Server 2"
-version="2.6"
-url="https://archive.org/download/ultimate26/ultimate26.zip"
+version="2.7"
+url="https://archive.org/download/ultimate27/ultimate27.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
@@ -31,8 +31,8 @@ description="Wizard para Latino Kodi Ultimate"
 Build para Kodi 18.0 Leia
 
 name="Latino Kodi Ultimate Leia"
-version="1.1"
-url="https://archive.org/download/ferchorama_gmail_Leia_201809/leia.zip"
+version="1.2"
+url="https://archive.org/download/leia12/leia12.zip"
 gui="http://"
 kodi="18"
 theme="http://"
