@@ -7,6 +7,22 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 
 [COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
 
+[COLOR yellow]v2.7 Krypton[/COLOR]
+-Removido addon VODMX
+-Arreglado PELISPLUS
+-Agregado addon MARVEL
+-Agregado addon SECRETTVIP
+-Agregado addon REAL DEBRID
+-Renombrada sección PELICULAS A INGLÉS
+
+[COLOR yellow]v1.2 Leia[/COLOR]
+-Base actualizada a Beta 2
+-Removido addon VODMX
+-Arreglado PELISPLUS
+-Agregado addon SECRETTVIP
+-Agregado addon REAL DEBRID
+-Agregado addon SPORTS365
+
 [COLOR yellow]v2.6 Krypton[/COLOR]
 -Reconfigurados Widgets para evitar errores de registro
 -Removidos addons inexistentes
