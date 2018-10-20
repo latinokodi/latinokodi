@@ -2,7 +2,17 @@ id="plugin.program.latinokodiultimate"
 version="1.0"
 zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinokodiultimate-1.0.zip"
 
-Build para Kodi 17.6 Krypton
+name="Latino Kodi Advanced"
+version="1.0"
+url="https://archive.org/download/advanced10/advanced10.zip"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://archive.org/download/shield4/escudo-small.png"
+fanart="https://archive.org/download/fanaer/fanaer.jpg"
+preview="http://"
+adult="No"
+description="Wizard para Latino Kodi Advanced"
 
 name="Latino Kodi Ultimate"
 version="2.7"
@@ -27,8 +37,6 @@ fanart="https://archive.org/download/screen_201808/screen.jpg"
 preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Ultimate"
-
-Build para Kodi 18.0 Leia
 
 name="Latino Kodi Ultimate Leia"
 version="1.2"
