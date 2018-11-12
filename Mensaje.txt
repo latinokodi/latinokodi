@@ -1,4 +1,4 @@
-17
+18
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
@@ -6,6 +6,13 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 [COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+
+[COLOR yellow]v2.8 Ultimate[/COLOR]
+-Corregido Pelisplus
+-Removidos Addons huerfanos e inexistentes
+-Agregados nuesvos addons
+-Agregado nuevo widget a pantalla principal
+-Cambios y optimizaciones internos
 
 [COLOR yellow]v1.1 Advanced[/COLOR]
 -Corregido error miniaturas
