@@ -10,7 +10,7 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [COLOR yellow]v2.8 Ultimate[/COLOR]
 -Corregido Pelisplus
 -Removidos Addons huerfanos e inexistentes
--Agregados nuesvos addons
+-Agregados nuevos addons
 -Agregado nuevo widget a pantalla principal
 -Cambios y optimizaciones internos
 
