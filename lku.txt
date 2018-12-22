@@ -28,7 +28,7 @@ description="Wizard para Latino Kodi Advanced"
 
 name="Latino Kodi Ultimate"
 version="2.9"
-url="https://archive.org/download/ultimate29/ultimate29.zip"
+url="https://archive.org/download/ultimate29_201812/ultimate29.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
