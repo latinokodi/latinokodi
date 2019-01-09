@@ -1,4 +1,4 @@
-19
+20
 |||
 [COLOR blue]GRACIAS POR ESCOGER LATINO KODI ULTIMATE[/COLOR]
 
@@ -6,6 +6,15 @@ REPORTAR ERRORES AL CANAL DE TELEGRAM:
 [B]@latinokodi[/B]
 
 [COLOR red][B]IMPORTANTE: PARA INSTALAR LOS UPDATES UTILIZA LA OPCIÓN STANDARD INSTALL, SI INSTALAS POR PRIMER VEZ UTILIZA FRESH INSTALL[/B][/COLOR]
+
+[COLOR yellow]v3.0 Ultimate[/COLOR]
+-Cambios en la interface
+-Agregados addons: Cine, Death From Above
+-Limpieza interna de archivos
+-Nueva configutación de buffer
+-Actualizados addons
+-Actualizados accesos directos
+-Corregidos Widgets rotos
 
 [COLOR yellow]v2.9 Ultimate[/COLOR]
 -Actualizados addons
