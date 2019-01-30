@@ -4,7 +4,7 @@ zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinoko
 
 name="Latino Kodi Leia"
 version="1.5"
-url="http://reselleriptv.club/ultimateleia15.zip"
+url="http://latinokodi.xyz/ultimateleia15.zip"
 gui="http://"
 kodi="18"
 theme="http://"
