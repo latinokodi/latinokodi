@@ -4,7 +4,7 @@ zip="https://github.com/ferchorama/latinokodi/raw/master/plugin.program.latinoko
 
 name="Latino Kodi Leia"
 version="1.8"
-url="https://archive.org/download/ultimateleia18/ultimateleia18.zip"
+url="https://archive.org/download/ultimateleia18_201903/ultimateleia18.zip"
 gui="http://"
 kodi="18"
 theme="http://"
