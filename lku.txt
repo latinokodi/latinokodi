@@ -15,7 +15,7 @@ preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Leia"
 
-name="Latino Kodi Test Edition"
+name="Latino Kodi T"
 version="1.9"
 url="https://archive.org/download/lkleiatest/lkleiatest.zip"
 minor="http://"
