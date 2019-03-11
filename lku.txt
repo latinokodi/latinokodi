@@ -1,5 +1,5 @@
 id="plugin.program.latinokodiultimate"
-version="1.0"
+version="1.5"
 zip="https://github.com/latinokodi/latinokodi/raw/master/plugin.program.latinokodiultimate-kodi18.zip"
 
 name="Latino Kodi Leia"
@@ -16,7 +16,7 @@ adult="No"
 description="Wizard para Latino Kodi Leia"
 
 name="Latino Kodi T"
-version="1.9"
+version="1.0"
 url="https://archive.org/download/lkleiatest/lkleiatest.zip"
 minor="http://"
 gui="http://"
