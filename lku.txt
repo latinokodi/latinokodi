@@ -4,7 +4,7 @@ zip="https://github.com/latinokodi/latinokodi/raw/master/plugin.program.latinoko
 
 name="Latino Kodi Leia"
 version="2.4"
-url="http://latinokodi.xyz/ultimateleia24.zip"
+url="https://archive.org/download/ultimateleia24_201906/ultimateleia24.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
@@ -17,7 +17,7 @@ description="Wizard para Latino Kodi Leia"
 
 name="Latino Kodi T"
 version="2.4"
-url="http://latinokodi.xyz/ultimateleia24.zip"
+url="https://archive.org/download/ultimateleia24_201906/ultimateleia24.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
