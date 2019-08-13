@@ -15,7 +15,7 @@ preview="http://"
 adult="No"
 description="Wizard para Latino Kodi Leia"
 
-name="Fix Barra Player [Standard Install]"
+name="Fix Barra Player"
 version="1.0"
 url="https://archive.org/download/fix_20190812/fix.zip"
 minor="http://"
