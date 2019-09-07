@@ -17,7 +17,7 @@ description="Wizard para Latino Kodi Leia"
 
 name="Fix Skin"
 version="1.0"
-url="https://archive.org/download/addons_201909/addons.zip"
+url="https://archive.org/download/addons_20190907/addons.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
