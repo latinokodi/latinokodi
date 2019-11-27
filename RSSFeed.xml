@@ -1,16 +1,11 @@
 <rss version="2.0">
  <channel>
-  
-  <title>Anuncie aquí</title>
-  
-  <item>
-   <title>Anuncia tu producto o servicio aquí</title>
-  </item>
-  
-   <item>
-   <title>Escribe a latinokodi100@gmail.com</title>
-  </item>
-  
-  
+    <title>Anuncie aqui</title>
+    <item>
+    <title>Anuncia tu producto o servicio aqui</title>
+    </item>
+    <item>
+    <title>Escribe a latinokodi100@gmail.com</title>
+    </item>  
  </channel>
 </rss>
