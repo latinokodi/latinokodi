@@ -4,7 +4,7 @@ zip="https://github.com/latinokodi/latinokodi/raw/master/plugin.program.latinoko
 
 name="Latino Kodi Ultimate"
 version="3.9"
-url="https://archive.org/download/ultimateleia40/ultimateleia40.zip"
+url="https://archive.org/download/ultimateleia40_202003/ultimateleia40.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
