@@ -1,6 +1,6 @@
 id="plugin.program.latinokodiultimate"
 version="1.0"
-zip="https://github.com/latinokodi/latinokodi/raw/master/plugin.program.latinokodiultimate.zip"
+zip="http://latinokodi.com/latinokodi/plugin.program.latinokodiultimate.zip"
 
 name="Latino Kodi Ultimate"
 version="3.9"
