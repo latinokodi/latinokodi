@@ -17,7 +17,7 @@ description="Wizard para Latino Kodi Leia"
 
 name="Latino Kodi Ultimate Server 2"
 version="4.3"
-url="https://archive.org/download/ultimateleia43_202008/ultimateleia43.zip"
+url="https://archive.org/download/ultimateleia43_20200815_1704/ultimateleia43.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
