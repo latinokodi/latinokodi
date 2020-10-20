@@ -4,7 +4,7 @@ zip="https://latinokodi.github.io/latinokodi/repo/plugin.program.latinokodiultim
 
 name="Latino Kodi Ultimate"
 version="4.5"
-url="http://lkubuild.xyz/instalar/ultimateleia45.zip"
+url="https://archive.org/download/ultimateleia45/ultimateleia45.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
@@ -17,7 +17,7 @@ description="Wizard para Latino Kodi Leia"
 
 name="Latino Kodi Ultimate Server 2"
 version="4.5"
-url="http://lkubuild.xyz/instalar/back/ultimateleia45.zip"
+url="https://archive.org/download/ultimateleia45/ultimateleia45.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
