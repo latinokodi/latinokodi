@@ -1,6 +1,6 @@
 id="plugin.program.lku"
 version="1.0"
-zip="https://latinokodi.github.io/latinokodi/repo/plugin.program.latinokodiultimate.zip"
+zip="https://latinokodi.github.io/latinokodi/repo/plugin.program.lku.zip"
 
 name="Latino Kodi Ultimate"
 version="5.1"
