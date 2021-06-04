@@ -1,6 +1,6 @@
 id="plugin.program.lku"
 version="1.0"
-zip="https://github.com/latinokodi/latinokodi/blob/master/plugin.program.lku.zip?raw=true"
+zip="https://latinokodi.github.io/latinokodi/repo/plugin.program.lku.zip"
 
 name="LKU"
 version="5.1"
