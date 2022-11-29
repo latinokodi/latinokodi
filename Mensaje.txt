@@ -1,6 +1,6 @@
 21
 |||
-[CENTER][COLOR red]YOUTUBE eliminó nuestro canal[/COLOR]
+[COLOR red]YOUTUBE eliminó nuestro canal[/COLOR]
 
 Estamos en directo 3 veces por semana en Twitch con actualizaciones, tutoriales, preguntas y respuestas:
 [B]https://www.twitch.tv/latinokodi[/B]
@@ -13,4 +13,3 @@ TELEGRAM: [B]@latinokodi[/B], INSTAGRAM: [B]@latinokodi[/B], TWITTER: [B]@latino
 
 [COLOR red][B]IMPORTANTE: Latino Kodi Ultimate es una interfaz amigable para Kodi y para addons de terceros, si tiene problemas con alguno de ellos, por favor reportar a sus respectivos desarrolladores.
 [/B][/COLOR]
-[/CENTER]
